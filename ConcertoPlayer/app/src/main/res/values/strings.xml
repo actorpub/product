@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">协奏播放器</string>
+    <string name="playing_notification_description">The playing notification provides actions for play/pause etc.</string>
+    <string name="playing_notification_name">Playing notification</string>
+    <string name="unplayable_file">Couldn\u2019t play this song.</string>
+    <string name="action_play_pause">Play/Pause</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+
+    <string name="loading_summary">正在努力的加载中...</string>
+
+</resources>

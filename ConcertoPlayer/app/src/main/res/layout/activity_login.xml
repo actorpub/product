@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_login_bg"
+
+    >
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="90dp"
+        android:layout_height="110dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/ic_login" />
+
+    <TextView
+        android:id="@+id/tv_login_error"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btn_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_wufayanzheng"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="此微信账号无法使用\n请更换其他微信账号"
+        android:textColor="@android:color/white"
+
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_weixin_login"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_login_error"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:text="使用其他微信登陆"
+        android:textColor="@android:color/white"
+        android:visibility="gone"
+
+        />
+</RelativeLayout>

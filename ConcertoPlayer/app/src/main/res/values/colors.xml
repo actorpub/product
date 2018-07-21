@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9900</color>
+    <color name="colorPrimaryDark">#bfbfbf</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDividerGray">#999999</color>
+    <color name="grey500">#ff9e9e9e</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#00CC00</color>
+    <color name="colorPopuBg">#F2F2F2</color>
+    <color name="colorPlaying">#029800</color>
+    <color name="colorHistory">#FF9900</color>
+    <color name="colorSearch">#5B5B5B</color>
+    <color name="colorSearchTitle">#666666</color>
+    <color name="colorSearchBg">#F2F2F2</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <path >
+        <external-path path="musicUpdate" name="download" />
+        <external-path path="." name="external_storage_root" />
+    </path>
+</resources>
